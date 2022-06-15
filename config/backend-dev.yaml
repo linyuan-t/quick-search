@@ -1,0 +1,5 @@
+server:
+  id: 1 # 服务器 ID
+  debug: true # 调试模式
+  port: "8080"
+  timezone: "Asia/Shanghai"
