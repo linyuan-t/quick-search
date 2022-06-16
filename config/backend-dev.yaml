@@ -3,3 +3,6 @@ server:
   debug: true # 调试模式
   port: "8080"
   timezone: "Asia/Shanghai"
+
+qs:
+  datapath: ""
